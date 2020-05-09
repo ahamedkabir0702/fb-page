@@ -1,0 +1,41 @@
+/*###HEADER PART###*/
+
+@media screen and (max-width: 1024px) {
+    .logo-area{
+        width: 100%;
+        float: none;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .login-area{
+        width: 70%;
+        margin: auto;
+        float: none;
+        
+    }
+    .form{
+        float: none;
+        
+    }
+    
+
+/*###MIDDLE PART###*/
+
+.network{
+    width: 100%;
+    float: none;
+    text-align: center;
+}
+    .create-part{
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+    .network h2{
+        width: 80%;;
+        text-align: center;
+    }
+}
+@media screen and (max-width: 480px) {
+
+}
